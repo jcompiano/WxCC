@@ -1,9 +1,5 @@
 // Set these for each customer demo...
-<<<<<<< HEAD
 const CUSTOMER_NAME = "Cisco Systems Testing";
-=======
-const CUSTOMER_NAME = "Cisco Systems";
->>>>>>> 47891077daa6a66eef13d2ff5183aa01c8cfb1f8
 const CUSTOMER_IMAGE = "images/cisco-site.png";
 
 
