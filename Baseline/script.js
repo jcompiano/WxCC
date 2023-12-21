@@ -5,7 +5,7 @@ const CUSTOMER_IMAGE = "images/cisco-site.png";
 
 // Set this stuff once and Fuggedaboutit...
 const WXCC_TELEPHONE_NUMBER = "+1-984-884-0304";
-const IMI_SMS_WEBHOOK = "";
+const IMI_SMS_WEBHOOK = "https://hooks.us.webexconnect.io/events/10M3XIXUWL";
 const IMI_CALLBACK_WEBHOOK = "";
 const demoToolboxUserId = "";
 const WHATSAPP_IMAGE = "";
