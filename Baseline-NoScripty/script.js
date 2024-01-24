@@ -92,12 +92,12 @@ document.getElementById('whatsappLink').addEventListener('click', function () {
 });
 
 // Hide imi when the Contact Menu is open
-document.getElementById('bsContactMenu').addEventListener('shown.bs.offcanvas', () => {
+document.getElementById('contactMenu').addEventListener('shown.bs.offcanvas', () => {
   imiWebChat.hidden = true;
 });
 
 // Show imi when the Contact Menu is closed
-document.getElementById('bsContactMenu').addEventListener('hidden.bs.offcanvas', () => {
+document.getElementById('contactMenu').addEventListener('hidden.bs.offcanvas', () => {
   imiWebChat.hidden = false;
 });
 
