@@ -448,5 +448,9 @@
   "Appointment Scheduled": {
     "name":"icon-scheduler-available_16",
     "color":"black"
+  },
+  "Appointment": {
+    "name":"icon-scheduler-available_16",
+    "color":"black"
   }
 }
