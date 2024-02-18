@@ -444,5 +444,9 @@
   "Successfully Self-Serviced": {
     "name": "icon-angellist_16",
     "color": "black"
+  },
+  "Appointment Scheduled": {
+    "name":"icon-scheduler-available_16",
+    "color":"black"
   }
 }
