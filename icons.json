@@ -452,5 +452,9 @@
   "Appointment": {
     "name":"icon-scheduler-available_16",
     "color":"black"
+  },
+  "Ticket": {
+    "name":"icon-events_16",
+    "color":"black"
   }
 }
