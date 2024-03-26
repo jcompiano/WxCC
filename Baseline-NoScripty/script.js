@@ -1,5 +1,8 @@
+//part of test
+document.addEventListener('DOMContentLoaded', (event) => {
+
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Cisco Systems Another Test";
+const CUSTOMER_NAME = "Cisco Systems No Scripty";
 const CUSTOMER_IMAGE = "images/cisco-site.png";
 
 
@@ -287,4 +290,7 @@ document.getElementById('sendSmsBtn').addEventListener('click', () => {
     bsToggle(bsSmsModal);
     sendSMS();
   } else smsForm.classList.add('was-validated');
+});
+
+//part of test
 });
