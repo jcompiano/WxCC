@@ -1,6 +1,8 @@
 // Set these for each customer demo...
 const CUSTOMER_NAME = "Cisco Systems Scripty";
 const CUSTOMER_IMAGE = "images/cisco-site.png";
+//const CUSTOMER_IMAGE = "images/TexasParks.png";
+//const CUSTOMER_IMAGE = "images/WashingtonCounty.png";
 
 
 //-----------------------------------------//
