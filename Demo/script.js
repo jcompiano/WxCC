@@ -2,16 +2,16 @@
 document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Cisco Systems No Scripty";
+const CUSTOMER_NAME = "Cumulus City";
 const CUSTOMER_IMAGE = "images/cisco-site.png";
 
 
 // Set this stuff once and Fuggedaboutit...
 const WXCC_TELEPHONE_NUMBER = "+1-984-884-0304";
-const IMI_SMS_WEBHOOK = "https://hooks.us.webexconnect.io/events/10M3XIXUWL";
-const IMI_CALLBACK_WEBHOOK = "";
-const demoToolboxUserId = "";
-const WHATSAPP_IMAGE = "";
+const IMI_SMS_WEBHOOK = "https://hooks.us.webexconnect.io/events/9BMA505V9R";
+const IMI_CALLBACK_WEBHOOK = "https://hooks.us.webexconnect.io/events/CXYSM9GT47";
+const demoToolboxUserId = "1233";
+const WHATSAPP_IMAGE = "https://demowebsite-10871.web.app/images/WhatsAppImage.png";
 const AGENT_IMAGE = "images/agent.png";
 
 
