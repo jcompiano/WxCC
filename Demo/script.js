@@ -2,8 +2,8 @@
 document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Cumulus City";
-const CUSTOMER_IMAGE = "images/cisco-site.png";
+const CUSTOMER_NAME = "Gerogia Department of Labor";
+const CUSTOMER_IMAGE = "images/Georgia Department of Labor.png";
 
 
 // Set this stuff once and Fuggedaboutit...
@@ -14,6 +14,10 @@ const demoToolboxUserId = "1233";
 const WHATSAPP_IMAGE = "https://demowebsite-10871.web.app/images/WhatsAppImage.png";
 const AGENT_IMAGE = "images/agent.png";
 
+
+//-----------------------------------------//
+// Dont change anything below this line: Jared did this
+//-----------------------------------------//
 
 //-----------------------------------------//
 // Dont change anything below this line
