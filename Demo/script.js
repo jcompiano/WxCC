@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Gerogia Department of Labor";
+const CUSTOMER_NAME = "Georgia Department of Labor";
 const CUSTOMER_IMAGE = "images/Georgia Department of Labor.png";
 
 
