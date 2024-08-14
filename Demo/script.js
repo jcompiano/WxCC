@@ -2,8 +2,8 @@
 document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "City of Glendale CA";
-const CUSTOMER_IMAGE = "images/City of Glendale CA.png";
+const CUSTOMER_NAME = "Georgia Department of Labor";
+const CUSTOMER_IMAGE = "images/Georgia Department of Labor.png";
 
 
 // Set this stuff once and Fuggedaboutit...
