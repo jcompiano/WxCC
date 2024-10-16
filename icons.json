@@ -345,6 +345,10 @@
     "name": "icon-bitmoji-connect_16",
     "color": "orange"
   },
+  "Change Requested": {
+    "name": "icon-private-circle_16",
+    "color": "yellow"
+  },
   "passwordChange": {
     "name": "icon-private-circle_16",
     "color": "yellow"
